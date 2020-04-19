@@ -6,5 +6,5 @@ clickHouse.url={url}
 clickHouse.username={username}
 clickHouse.password={password}
 
-token.generator={token}
-token.client={token}
+token.generator=
+token.client=
